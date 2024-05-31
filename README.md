@@ -34,3 +34,10 @@ to use:
 ## Notes 
 The BAT files are just my way of running the X16 Emulator.  
 
+## X16 Emulator with BASLOAD transpiled code.  
+
+![fnr](https://github.com/jakebullet70/X16FKEYMAPPER/assets/14124210/1b4d1e75-aced-4a9d-9868-6cec0f0bdf01)
+
+## BASLOAD formated code.  
+
+![fnr1](https://github.com/jakebullet70/X16FKEYMAPPER/assets/14124210/8f4bb124-1fee-468a-aa06-2923dbd01727)
